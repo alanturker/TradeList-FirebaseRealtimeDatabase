@@ -1,1 +1,3 @@
 # TradeList-FirebaseRealtimeDatabase
+
+I made an application where e-commerce products can be entered, listed and sorted using the Firebase Realtime Database pod. I used Firebase as a 3rd party library. When you open the application, you can add products with the add button at the top right. We add the infos like category, price, title and description of these products. It gives it's own Date. With the filter button at the top left, we can sort the product according to the price, ascending, descending, or from a to z. When we click on the products, we go to the detail screen, where we have the chance to rearrange the products infos. 
